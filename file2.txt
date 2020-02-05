@@ -1,2 +1,6 @@
 added by user2
+<<<<<<< HEAD
 added by user2
+=======
+added by user1
+>>>>>>> dbd3532b635b9bbd082492134f260f76f9d6cdbd
